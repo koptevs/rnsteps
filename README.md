@@ -8,6 +8,5 @@
 ```shell
 $ npx create-expo-app rnsteps
 $ npx expo install react-native-safe-area-context
-$ npx expo install expo-font @expo-google-fonts/ibm-plex-mono
-$ npx expo install expo-splash-screen
+$ npx expo install expo-font @expo-google-fonts/ibm-plex-sans
 ```
