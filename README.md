@@ -7,4 +7,5 @@
 
 ```shell
 $ npx create-expo-app rnsteps
+$ npx expo install react-native-safe-area-context
 ```
